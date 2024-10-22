@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thesioni.github.io/thesioni.thesioni
+Sitemap: https://thesioni.github.io/app/thesioni.thesioni
+Sitemap: https://thesioni.github.io/assets/thesioni.thesioni
+Sitemap: https://thesioni.github.io/css/thesioni.thesioni
+Sitemap: https://thesioni.github.io/includes/thesioni.thesioni
+Sitemap: https://thesioni.github.io/item/thesioni.thesioni
+Sitemap: https://thesioni.github.io/src/thesioni.thesioni
